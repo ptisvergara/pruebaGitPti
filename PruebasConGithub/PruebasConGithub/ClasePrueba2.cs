@@ -8,5 +8,7 @@ namespace PruebasConGithub
 {
     class ClasePrueba2
     {
+        string prueba;
+        int numero;
     }
 }
