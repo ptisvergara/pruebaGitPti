@@ -21,6 +21,7 @@ namespace PruebasConGithub
         {
             MessageBox.Show(textBox1.Text);
             textBox2.Text = textBox1.Text;
+            textBox1.Text = "";
         }
     }
 }
