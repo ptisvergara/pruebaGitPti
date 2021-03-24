@@ -1,0 +1,9 @@
+C:\Users\TE-PC-49\Documents\GitHub\pruebaGitPti\PruebasConGithub\PruebasConGithub\bin\Debug\PruebasConGithub.exe.config
+C:\Users\TE-PC-49\Documents\GitHub\pruebaGitPti\PruebasConGithub\PruebasConGithub\bin\Debug\PruebasConGithub.exe
+C:\Users\TE-PC-49\Documents\GitHub\pruebaGitPti\PruebasConGithub\PruebasConGithub\bin\Debug\PruebasConGithub.pdb
+C:\Users\TE-PC-49\Documents\GitHub\pruebaGitPti\PruebasConGithub\PruebasConGithub\obj\Debug\PruebasConGithub.csprojResolveAssemblyReference.cache
+C:\Users\TE-PC-49\Documents\GitHub\pruebaGitPti\PruebasConGithub\PruebasConGithub\obj\Debug\PruebasConGithub.Form1.resources
+C:\Users\TE-PC-49\Documents\GitHub\pruebaGitPti\PruebasConGithub\PruebasConGithub\obj\Debug\PruebasConGithub.Properties.Resources.resources
+C:\Users\TE-PC-49\Documents\GitHub\pruebaGitPti\PruebasConGithub\PruebasConGithub\obj\Debug\PruebasConGithub.csproj.GenerateResource.Cache
+C:\Users\TE-PC-49\Documents\GitHub\pruebaGitPti\PruebasConGithub\PruebasConGithub\obj\Debug\PruebasConGithub.exe
+C:\Users\TE-PC-49\Documents\GitHub\pruebaGitPti\PruebasConGithub\PruebasConGithub\obj\Debug\PruebasConGithub.pdb
