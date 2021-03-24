@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="ClaePrueba1.cs" />
     <Compile Include="ClasePrueba.cs" />
+    <Compile Include="ClasePrueba2.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
